@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋 my name is Federico Gambassi. I am a self-taught programmer and I mostly have experience in Reinforcement Learning development 
+using Python - Pythorch framework :fire:
 
+- 🌱 Right now, I am focused on learning **Solidity** as an introduction to **Smart Contract** and **Blockchain** development
+
+- 💬 Ask me about : my obsession for **Brazilian Jiu Jitsu** :men_wrestling:
 <!--
 **comprido96/comprido96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
