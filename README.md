@@ -1,5 +1,4 @@
-### Hi there 👋 my name is Federico Gambassi. I am a self-taught programmer and I mostly have experience in Reinforcement Learning development 
-### using Python - Pythorch framework :fire:
+### Hi there 👋 my name is Federico Gambassi. I am a self-taught programmer and I mostly have experience in Reinforcement Learning development using Python - Pythorch framework :fire:
 
 - 🌱 Right now, I am focused on learning **Solidity** as an introduction to **Smart Contract** and **Blockchain** development
 
