@@ -6,9 +6,10 @@ I build production LLM systems with industrial evaluation rigor — frozen eval 
 
 - 🏠 Founder of **Dymora** — a smart-building SaaS running live with paying customers: Rust/axum API (800+ tests), Stripe subscription billing, staged CI/CD, zero-touch device-fleet provisioning → [engineering case study](https://github.com/comprido96/dymora-engineering)
 - 🤖 Day job: production LLM agents — planner/executor/synthesizer architectures, provider-agnostic tool calling (OpenAI + Anthropic), RAG, eval infrastructure larger than the source it tests
+- 🔬 Fine-tuning + eval methodology, end to end: frozen hand-verified eval set, prompted frontier baselines, LoRA on Apple Silicon beating gpt-5-mini (98.5% vs 90.25% exact-match, $0 cost) — with the ablation surprise and failure taxonomy published, not just the headline number → [comando](https://github.com/comprido96/comando)
 - ⚡ Solana/Rust: OTC swap protocol with Pyth oracle pricing and collateral-ratio enforcement → [LetsDAT-Otc-Swap](https://github.com/comprido96/LetsDAT-Otc-Swap)
 - 🎓 M.Sc. Mathematical Engineering (Politecnico di Torino) — thesis on model-based offline deep RL → [Model-Based-Offline-Deep-RL](https://github.com/comprido96/Model-Based-Offline-Deep-RL)
 
-**Highlights:** [HomeEdge-Orchestrator](https://github.com/comprido96/HomeEdge-Orchestrator) · [LetsDAT-Otc-Swap](https://github.com/comprido96/LetsDAT-Otc-Swap) · [TMDB-Agent](https://github.com/comprido96/TMDB-Agent) · [Model-Based-Offline-Deep-RL](https://github.com/comprido96/Model-Based-Offline-Deep-RL)
+**Highlights:** [HomeEdge-Orchestrator](https://github.com/comprido96/HomeEdge-Orchestrator) · [comando](https://github.com/comprido96/comando) · [LetsDAT-Otc-Swap](https://github.com/comprido96/LetsDAT-Otc-Swap) · [TMDB-Agent](https://github.com/comprido96/TMDB-Agent) · [Model-Based-Offline-Deep-RL](https://github.com/comprido96/Model-Based-Offline-Deep-RL)
 
 📫 fedegambassi96@gmail.com · [LinkedIn](https://www.linkedin.com/in/federico-gambassi/)
